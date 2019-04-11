@@ -10,6 +10,7 @@ etc/Headset_cal.acdb
 etc/Speaker_cal.acdb
 etc/Tfa9895.cnt
 lib/libtfa9895.so
+vendor/lib/hw/audio_amplifier.msm8916.so
 
 # Qualcomm framework
 vendor/lib/libdiag.so|8c4d49b3c7a40d7a87f063982bd08181dce5135a
